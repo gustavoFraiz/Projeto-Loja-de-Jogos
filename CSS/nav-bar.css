@@ -1,0 +1,69 @@
+.Nav-Main{
+    width: 100%;
+    height:15%;
+    background-color:whitesmoke;
+    display:flex;
+    justify-content: space-between;
+    float:left;
+    box-shadow:2px,2px,2px,rgba(104, 85, 224, 1);
+}
+
+
+.asd{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.zxc{
+    height: 100%;
+    width: auto;
+}
+
+.Nav-Titulo{
+    margin-top:20px;
+}
+.Nav-Titulo h1{
+    display:inline;
+    font-family: Inter;
+}
+
+
+.Titulo{
+    margin-left:20px;
+}
+.Ponto{
+    color:rgba(104, 85, 224, 1);
+}
+
+.Jogos{
+    float: left;
+    text-decoration: none;
+    color:black;
+    font-family:Inter;
+    /*margin-left:37%;*/
+    margin-top:15px;
+
+}
+
+.Carrinho{
+    text-decoration: none;
+    font-family: Inter;
+    color:black;
+    /*margin-left:5%;*/
+    margin-top:15px;
+    float: left;
+}
+
+.Nav-Main img{
+    border-radius:5px;
+    width: auto;
+    height: 100%;
+    /* margin-left:auto;*/
+    /* margin-top:10px; */
+    margin-right: 10px;
+}
+
+.Main-A{
+    text-decoration: none;
+    color:black;
+}
